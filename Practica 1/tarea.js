@@ -64,7 +64,7 @@ function mostrarResultado(titulo, resultado) {
 }
 
 function ejecutarPruebas() {
-    console.log("🚀 EJECUTANDO PRUEBAS DE MANIPULACIÓN DE STRINGS");
+    console.log("EJECUTANDO PRUEBAS DE MANIPULACIÓN DE STRINGS");
     console.log("=" .repeat(50));
     
     mostrarResultado("1. ¿'Anita lava la tina' es palíndromo?", esPalindromo("Anita lava la tina"));
@@ -88,8 +88,8 @@ function ejecutarPruebas() {
 if (typeof require !== 'undefined' && require.main === module) {
     ejecutarPruebas();
 } else {
-    console.log("📝 Archivo de funciones de manipulación de strings cargado.");
-    console.log("💡 Usa 'ejecutarPruebas()' para ver ejemplos de uso.");
+    console.log("Archivo de funciones de manipulación de strings cargado.");
+    console.log("Usa 'ejecutarPruebas()' para ver ejemplos de uso.");
 }
 
 if (typeof module !== 'undefined' && module.exports) {
