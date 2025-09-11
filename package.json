@@ -1,0 +1,21 @@
+{
+  "name": "practicas",
+  "version": "1.0.0",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/stan-mqz/Practicas.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/stan-mqz/Practicas/issues"
+  },
+  "homepage": "https://github.com/stan-mqz/Practicas#readme",
+  "description": ""
+}
