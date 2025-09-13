@@ -7,7 +7,7 @@ Crear un objeto que represente tu perfil personal con:
 
 let perfil = {
     info: {
-        nombre: "Ken", 
+        nombre: "Stanley", 
         edad: 19, 
         carrera: "Ingenieria en Desarrollo de Software"},
     direccion: {
@@ -15,12 +15,12 @@ let perfil = {
         pais: "El Salvador",
         departamento: "San Miguel"
     },
-    hobbies: ["Leer", "Escuchar musica", "Jugar videojuegos", "Tocar instrumentos musicales"],
+    hobbies: ["Leer", "Escuchar musica", "Jugar videojuegos", "Ver Series"],
     redes:{
-        instagram: "ken_mej2105",
-        facebook: "Kenneth Mejia",
-        linkedin: "Kenneth Mejia",
-        twitter: "Ken_mej2105"
+        instagram: "stan_mqz",
+        facebook: "Stan Marquez",
+        linkedin: "Stanley Márqiez",
+        twitter: "stanley_12"
     }
 }
 
