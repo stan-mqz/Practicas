@@ -17,5 +17,8 @@
     "url": "https://github.com/stan-mqz/Practicas/issues"
   },
   "homepage": "https://github.com/stan-mqz/Practicas#readme",
-  "description": ""
+  "description": "",
+  "dependencies": {
+    "colors": "^1.4.0"
+  }
 }
